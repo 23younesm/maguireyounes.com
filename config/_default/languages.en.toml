@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Maguire Younes"
 
 [params]
   displayName = "EN"
@@ -14,12 +14,12 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 # [author]
-#   name = "Your name here"
+#   name = "Maguire Younes"
 #   image = "img/blowfish_logo.png"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
 #   links = [
-#     { email = "mailto:hello@your_domain.com" },
+#     { email = "mailto:maguireyounes@maguireyounes.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
