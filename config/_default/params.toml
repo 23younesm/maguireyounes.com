@@ -18,8 +18,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
- defaultBackgroundImage = "assets/logo.png" # used as default for background images 
- defaultFeaturedImage = "assets/logo.png" # used as default for featured images in all articles
+ defaultBackgroundImage = "logo.png" # used as default for background images 
+ defaultFeaturedImage = "logo.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
