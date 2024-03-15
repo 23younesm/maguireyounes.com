@@ -47,7 +47,7 @@
     --color-primary-800:    132,1,2;
     --color-primary-900:    91,0,1;
     --color-secondary-50:     255,255,255;
-    --color-secondary-100:    255,255,255;
+   /* --color-secondary-100:    255,255,255;
     --color-secondary-200:    255,255,255;
     --color-secondary-300:    255,255,255;
     --color-secondary-400:    255,255,255;
@@ -59,6 +59,6 @@
     --color-secondary-600:   255,255,255;
     --color-secondary-700:    255,255,255;
     --color-secondary-800:   255,255,255;
-    --color-secondary-900:    255,255,255;
+    --color-secondary-900:    255,255,255; */
     }
 }
