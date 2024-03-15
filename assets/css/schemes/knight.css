@@ -5,11 +5,11 @@
     --color-neutral-200:    115,115,115;
     --color-neutral-300:    77,77,77;
     --color-neutral-400:    38,38,38;
-    --color-neutral-500:    0,0,0;
-    --color-neutral-600:    0,0,0;
-    --color-neutral-700:    0,0,0;
-    --color-neutral-800:    0,0,0;
-    --color-neutral-900:    0,0,0;
+    --color-neutral-500:    255, 255, 255;
+    --color-neutral-600:    255, 255, 255;
+    --color-neutral-700:    255, 255, 255;
+    --color-neutral-800:   255, 255, 255;
+    --color-neutral-900:    255, 255, 255;
     --color-primary-50: 239, 246, 255;
     --color-primary-100: 219, 234, 254;
     --color-primary-200: 191, 219, 254;
