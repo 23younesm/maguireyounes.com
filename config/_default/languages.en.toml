@@ -8,16 +8,16 @@ title = "Maguire Younes"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "static/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Maguire Younes"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+[author]
+   name = "Maguire Younes"
+   image = "img/blowfish_logo.png"
+   headline = "I'm only human"
+   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:maguireyounes@maguireyounes.com" },
 #     { link = "https://link-to-some-website.com/" },
