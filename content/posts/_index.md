@@ -1,5 +1,3 @@
-homepageVideo: "promoVideo.mp4"
-
 ## About Me
 
 I'm an integrated M.S. and B.S. Cybersecurity Analytics and Operations Major at Penn State University Park and I expect to graduate in 2025. Apart from being a full-time student working multiple jobs, I'm extremely passionate about SCUBA and underwater photography. I also maintain various personal projects such as the design of various mechanical keyboards.
@@ -17,3 +15,5 @@ I currently serve as an Instructional Assistant for Java Courses IST242 and IST1
 ### Lynnhaven Dive Center
 
 I've been diving since age 10 with LDC, and now serve as a full-time sales associate, and divemaster during the summer. As a divemaster I lead open-water dives, assist with course instruction, and work with individuals in the water. As someone passionate about the underwater world, I enjoy sharing my experience with others and helping them along their own SCUBA adventures.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=k6Yp55w56MQ" frameborder="0" allowfullscreen></iframe>
