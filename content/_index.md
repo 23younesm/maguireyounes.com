@@ -16,4 +16,4 @@ I currently serve as an Instructional Assistant for Java Courses IST242 and IST1
 
 I've been diving since age 10 with LDC, and now serve as a full-time sales associate, and divemaster during the summer. As a divemaster I lead open-water dives, assist with course instruction, and work with individuals in the water. As someone passionate about the underwater world, I enjoy sharing my experience with others and helping them along their own SCUBA adventures.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=k6Yp55w56MQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="1519" height="534" src="https://www.youtube.com/embed/k6Yp55w56MQ" title="If This Is Just a Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
