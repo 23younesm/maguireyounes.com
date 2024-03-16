@@ -69,3 +69,4 @@ Next, navigate to `Custom Domains` under your page, and add your domain. This wi
 ![Custom Domain](development/hugo/custom-domain.png)
 
 YIPPEE! You've done it. Every time you push to the main branch of your GitHub repository, Cloudflare Pages will automatically build and deploy your site on your domain!
+Yay
