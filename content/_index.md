@@ -1,19 +1,20 @@
   ## About Me
 
-  I'm Maguire! Im Cybersecurity Analytics and Operations Major at Penn State University Park and I expect to graduate in 2025. Apart from being a full-time student working multiple jobs, I'm extremely passionate about SCUBA and underwater photography. I also maintain various personal projects such as the design of various mechanical keyboard
+ I'm a Cybersecurity Analytics and Operations Major at Penn State University Park, set to graduate in 2027. My learning style prioritizes hands-on experimentation, enriching my grasp of technology. As the go-to "tech support kid" since childhood, my affinity for cybersecurity was sparked. Alongside my studies and campus involvement, I'm deeply passionate about meteorology, student government, and outdoor activities, embodying a multifaceted life approach and seizing every opportunity.
 
   ## What I do
 
-  ### Competitive Cybersecurity Organization
+  ### University Park Undergraduate Association
 
-  In addition to my coursework, I'm the Vice President of the [Competitive Cybersecurity Organization (CCSO)](https://ccso.psu.edu/). I create and plan meetings, organize and run teams for defensive cybersecurity competitions, and manage other ad hoc projects such as our merchandise. CCSO brought me together with amazing friends and provided wonderful opportunities to travel and compete against other institutions.
+  As an At-Large Representative for the UPUA at PSU, I'm privileged to represent one of 20 student voices advocating for over 42,000 undergraduates. My responsibilities include engaging with students to grasp their concerns, serving as a vocal advocate in diverse forums, fostering communication between students and the administration, and collaborating on initiatives to enhance student life. I work alongside various student groups and university departments, conducting research, contributing to policy development, and organizing events promoting community engagement and student well-being.
+
+  ### Competitive Cybersecurity Organization
+  The Competitive Cybersecurity Club at Penn State University is a tightly-knit student organization focused on advancing cybersecurity expertise through competitions. With enthusiastic and skilled members, the club covers topics like ethical hacking and digital forensics. It fosters a collaborative learning environment through workshops and training sessions, while also facilitating connections with industry professionals. The club's consistent success in competitions reflects its dedication, making it a vital hub for cybersecurity enthusiasts at PSU.
 
   ### Instructional Assistant
 
-  I currently serve as an Instructional Assistant for Java Courses IST242 and IST140. In addition to grading and providing feedback on programming assignments and quizzes, I regularly hold office hours and provide a 1:1 environment for students to get help with the course.
+  As a Learning Assistant, I play a crucial role in facilitating the Security Risk Analysis 111 course at Penn State. My responsibilities include ensuring fair and timely assessment, I am responsible for grading assignments, exams, and projects. I provide constructive feedback to help students improve their skills and grasp key concepts in security risk analysis. With a strong background in security risk analysis, I provide technical assistance to students, helping them navigate tools, software, and methodologies relevant to the course.
 
-  ### Lynnhaven Dive Center
-
-  I've been diving since age 10 with LDC, and now serve as a full-time sales associate, and divemaster during the summer. As a divemaster I lead open-water dives, assist with course instruction, and work with individuals in the water. As someone passionate about the underwater world, I enjoy sharing my experience with others and helping them along their own SCUBA adventures.
+  
 
 
