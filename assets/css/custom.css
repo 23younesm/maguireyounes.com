@@ -1,0 +1,8 @@
+body {
+    background-color: #000; /* Black background color */
+    color: #fff;            /* White text color for contrast */
+}
+.container {
+    max-width: none; /* Removes the maximum width constraint */
+    width: 100%;     /* Makes the container span the entire width */
+}
