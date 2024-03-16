@@ -19,7 +19,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 
   defaultBackgroundImage = "Background.png" # used as default for background images 
-  defaultFeaturedImage = "logo.png" # used as default for featured images in all articles
+  defaultFeaturedImage = "Posts.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
