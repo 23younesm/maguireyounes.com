@@ -17,5 +17,3 @@
   I've been diving since age 10 with LDC, and now serve as a full-time sales associate, and divemaster during the summer. As a divemaster I lead open-water dives, assist with course instruction, and work with individuals in the water. As someone passionate about the underwater world, I enjoy sharing my experience with others and helping them along their own SCUBA adventures.
 
 
-![funny](happy.gif)
-
