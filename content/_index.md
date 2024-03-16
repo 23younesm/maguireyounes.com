@@ -1,6 +1,6 @@
   ## About Me
 
-  I'm Maguire! Im Cybersecurity Analytics and Operations Major at Penn State University Park and I expect to graduate in 2025. Apart from being a full-time student working multiple jobs, I'm extremely passionate about SCUBA and underwater photography. I also maintain various personal projects such as the design of various mechanical keyboards.
+  I'm Maguire! Im Cybersecurity Analytics and Operations Major at Penn State University Park and I expect to graduate in 2025. Apart from being a full-time student working multiple jobs, I'm extremely passionate about SCUBA and underwater photography. I also maintain various personal projects such as the design of various mechanical keyboard
 
   ## What I do
 
