@@ -1,5 +1,3 @@
-<div style="width: 100%;">
- 
   ## About Me
 
   I'm an integrated M.S. and B.S. Cybersecurity Analytics and Operations Major at Penn State University Park and I expect to graduate in 2025. Apart from being a full-time student working multiple jobs, I'm extremely passionate about SCUBA and underwater photography. I also maintain various personal projects such as the design of various mechanical keyboards.
@@ -21,10 +19,3 @@
 
 ![funny](happy.gif)
 
-  <video width="100%" controls autoplay loop muted>
-    <source src="/assets/promoVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <iframe width="100%" height="534" src="https://www.youtube.com/embed/k6Yp55w56MQ" title="If This Is Just a Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
