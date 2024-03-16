@@ -1,6 +1,6 @@
   ## About Me
 
- I'm a Cybersecurity Analytics and Operations Major at Penn State University Park, set to graduate in 2027. My learning style prioritizes hands-on experimentation, enriching my grasp of technology. As the go-to "tech support kid" since childhood, my affinity for cybersecurity was sparked. Alongside my studies and campus involvement, I'm deeply passionate about meteorology, student government, and outdoor activities, embodying a multifaceted life approach and seizing every opportunity.
+ I'm a Cybersecurity Analytics and Operations Major at Penn State University Park, set to graduate in 2027. My learning style prioritizes hands-on experimentation, enriching my grasp of technology. As the "tech support kid" since childhood, my affinity for cybersecurity was sparked. Alongside my studies and campus involvement, I'm deeply passionate about meteorology, student government, and outdoor activities, embodying a multifaceted life approach and seizing every opportunity.
 
   ## What I do
 
