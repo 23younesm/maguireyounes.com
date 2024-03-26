@@ -29,7 +29,6 @@ date: 2024-03-26
 📅 **Save the Date:**
 - March 27th - Your support and vote will shape the future of our university. Let’s make Penn State the best it can be, together! 🌈🎓
 
-#younes4upua
 
 ## Understanding UPUA at PSU
 
@@ -76,4 +75,10 @@ Younes' campaign focuses on three key pillars:
 - Ensuring access to menstrual products in all bathrooms.
 - Advocating for Thon days off.
 
+## CLICK THE BUTTON TO VOTE!
+[![Vote Now](https://static.vecteezy.com/system/resources/thumbnails/025/210/827/small_2x/vote-button-icon-glossy-3d-realistic-vote-now-button-voting-badge-badge-label-voting-yes-push-button-isolated-png.png)](https://orgcentral.psu.edu/submitter/election/start/630489)
 
+## Follow the Insta!
+
+@younes4upua
+#younes4upua
