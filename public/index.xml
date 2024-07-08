@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maguire Younes</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Maguire Younes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Maguire Younes</copyright>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting up my Proxmox Server on an HP ProLiant DL380p</title>
+      <link>http://localhost:1313/posts/server/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/server/</guid>
+      <description>This post outlines my experience with setting up an HP ProLiant DL380p server to run Proxmox, along with several other tools to enhance its functionality.</description>
+      
+    </item>
+    
+    <item>
+      <title>Vote For Maguire Younes!</title>
+      <link>http://localhost:1313/posts/vote/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/vote/</guid>
+      <description>CLICK THE BUTTON TO VOTE!</description>
+      
+    </item>
+    
+    <item>
+      <title>Maguire Younes&#39;s Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Education # The Pennsylvania State University</description>
+      
+    </item>
+    
+  </channel>
+</rss>
