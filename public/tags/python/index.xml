@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/signal-api/</guid>
       <description>This post covers my experience creating a Python script to interact with my friends&amp;rsquo; Signal group chat.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/signal-api/featured.png" />
     </item>
     
   </channel>
