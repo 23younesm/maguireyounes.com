@@ -41,7 +41,7 @@ With the server firmware updated, I used the ILO's virtual DVD feature to mount 
 
 The first thing I did was provision and install a basic Red Hat Linux VM. On this VM, I installed a Cloudflare tunnel, allowing me to securely access my private network from Penn State without the need for port forwarding.
 
-![Network Diagram](network_diagram.png)
+![Network Diagram](network_diagram1.png)
 
 ### Monitoring and Security
 
