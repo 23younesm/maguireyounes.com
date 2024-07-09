@@ -109,7 +109,7 @@ The script retrieves and displays the list of users and their corresponding scor
 
 ## Running the Script
 
-The script runs in a continuous loop, checking for new messages and processing commands. It listens for messages, parses commands, and executes the necessary actions, providing real-time interaction within the group chat.
+The script runs in a continuous loop on my [Proxmox Server](https://maguireyounes.com/posts/server), checking for new messages and processing commands. It listens for messages, parses commands, and executes the necessary actions, providing real-time interaction within the group chat.
 
 
 ## Conclusion

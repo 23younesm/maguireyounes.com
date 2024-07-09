@@ -55,7 +55,7 @@ Additionally, I enhanced security by installing fail2ban on the VMs with SSH acc
 
 ### Container Management
 
-To manage Docker containers efficiently, I installed [Portainer](https://www.portainer.io/). This tool allows me to easily spin up and manage containers, such as my Signal API bot.
+To manage Docker containers efficiently, I installed [Portainer](https://www.portainer.io/). This tool allows me to easily spin up and manage containers, such as my [Signal API bot](https://maguireyounes.com/posts/signal-api).
 
 ## Future Plans
 
