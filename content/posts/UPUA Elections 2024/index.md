@@ -5,7 +5,9 @@ date: 2024-03-26
 #categories: ["VOTE"]
 tags: ["UPUA"]
 ---
-
+{{< alert >}}
+**Update!** Maguire Younes was elected to the At-Large Position! Thanks for your support!
+{{< /alert >}}
 
 ## CLICK THE BUTTON TO VOTE!
 [![Vote Now](https://static.vecteezy.com/system/resources/thumbnails/025/210/827/small_2x/vote-button-icon-glossy-3d-realistic-vote-now-button-voting-badge-badge-label-voting-yes-push-button-isolated-png.png)](https://orgcentral.psu.edu/submitter/election/start/630489)
