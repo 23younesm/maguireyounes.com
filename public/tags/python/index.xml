@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Maguire Younes</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Maguire Younes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Maguire Younes</copyright>
+    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automating Group Chat Fun with a Signal API Python Script</title>
+      <link>http://localhost:1313/posts/signal-api/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/signal-api/</guid>
+      <description>This post covers my experience creating a Python script to interact with my friends&amp;rsquo; Signal group chat.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
