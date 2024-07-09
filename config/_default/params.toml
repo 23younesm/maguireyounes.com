@@ -118,13 +118,13 @@ disableTextInHeader = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "${{ secrets.APIKEY }}"
+  authDomain = "${{ secrets.AUTHDOMAIN }}"
+  projectId = "${{ secrets.PROJECTID }}"
+  storageBucket = "${{ secrets.STORAGEBUCKET }}"
+  messagingSenderId = "${{ secrets.MESSAGINGSENDERID }}"
+  appId = "${{ secrets.APPID }}"
+  measurementId = "${{ secrets.MEASUREMENTID }}"
 
 [fathomAnalytics]
   # site = "ABC12345"
