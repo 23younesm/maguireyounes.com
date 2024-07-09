@@ -3,6 +3,7 @@ title: "Setting up my Proxmox Server on an HP ProLiant DL380p"
 description: "A step-by-step guide to repurposing an HP ProLiant DL380p server with Proxmox and various tools"
 date: 2024-07-03
 tags: ["Server", "Proxmox", "Virtualization", "Networking"]
+imageNameKey: proxmox
 ---
 
 This post outlines my experience with setting up an HP ProLiant DL380p server to run Proxmox, along with several other tools to enhance its functionality. The aim was to repurpose an older server into a versatile virtualization platform for various projects, including remote access, monitoring, and container management.

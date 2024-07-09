@@ -15,7 +15,7 @@
   <meta name="keywords" content="Server, Proxmox, Virtualization, Networking, " />
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/server/" />
+  <link rel="canonical" href="http://localhost:1313/posts/server/index_/" />
   
   
   
@@ -63,13 +63,12 @@
   <meta property="og:title" content="Setting up my Proxmox Server on an HP ProLiant DL380p" />
 <meta property="og:description" content="A step-by-step guide to repurposing an HP ProLiant DL380p server with Proxmox and various tools" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/posts/server/" /><meta property="og:image" content="http://localhost:1313/posts/server/featured.jpg" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="http://localhost:1313/posts/server/index_/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2024-07-03T00:00:00+00:00" />
 <meta property="article:modified_time" content="2024-07-03T00:00:00+00:00" />
 
 
-  <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="http://localhost:1313/posts/server/featured.jpg" /><meta name="twitter:title" content="Setting up my Proxmox Server on an HP ProLiant DL380p"/>
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Setting up my Proxmox Server on an HP ProLiant DL380p"/>
 <meta name="twitter:description" content="A step-by-step guide to repurposing an HP ProLiant DL380p server with Proxmox and various tools"/>
 
   
@@ -83,7 +82,7 @@
     "description": "A step-by-step guide to repurposing an HP ProLiant DL380p server with Proxmox and various tools",
     "abstract": "This post outlines my experience with setting up an HP ProLiant DL380p server to run Proxmox, along with several other tools to enhance its functionality.",
     "inLanguage": "en",
-    "url" : "http:\/\/localhost:1313\/posts\/server\/",
+    "url" : "http:\/\/localhost:1313\/posts\/server\/index_\/",
     "author" : {
       "@type": "Person",
       "name": "Maguire Younes"
@@ -476,7 +475,7 @@
       
     
   
-  <span id="views_posts\server\index.md" class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400" title="views">loading</span>
+  <span id="views_posts\server\index_.md" class="animate-pulse inline-block text-transparent max-h-3 rounded-full mt-[-2px] align-middle bg-neutral-300 dark:bg-neutral-400" title="views">loading</span>
   <span class="inline-block align-text-bottom">
 
   <span class="relative block icon">
@@ -818,7 +817,7 @@
     
 </h3>
 <p>I installed Uptime Kuma, an open-source monitoring service, on the server. Uptime Kuma provides a simple dashboard to monitor various services, including my website, server, tunnel, and SSH access.</p>
-<a id="github-d1ee40410732ec983ab567e658aa0563" target="_blank" href="https://github.com/louislam/uptime-kuma" class="cursor-pointer">
+<a id="github-29db48458354962826ce9275e315d773" target="_blank" href="https://github.com/louislam/uptime-kuma" class="cursor-pointer">
   <div
     class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
 
@@ -834,13 +833,13 @@
 
       </span>
       <div
-        id="github-d1ee40410732ec983ab567e658aa0563-full_name"
+        id="github-29db48458354962826ce9275e315d773-full_name"
         class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
         louislam/uptime-kuma
       </div>
     </div>
 
-    <p id="github-d1ee40410732ec983ab567e658aa0563-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+    <p id="github-29db48458354962826ce9275e315d773-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
       A fancy self-hosted monitoring tool
     </p>
 
@@ -861,7 +860,7 @@
 
 
       </span>
-      <div id="github-d1ee40410732ec983ab567e658aa0563-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-29db48458354962826ce9275e315d773-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         52433
       </div>
 
@@ -874,7 +873,7 @@
 
 
       </span>
-      <div id="github-d1ee40410732ec983ab567e658aa0563-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-29db48458354962826ce9275e315d773-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         4721
       </div>
 
@@ -889,16 +888,16 @@
     })
       .then(response => response.json())
       .then(data => {
-        document.getElementById('github-d1ee40410732ec983ab567e658aa0563-full_name').innerHTML = data.full_name;
-        document.getElementById('github-d1ee40410732ec983ab567e658aa0563-description').innerHTML = data.description;
-        document.getElementById('github-d1ee40410732ec983ab567e658aa0563-stargazers').innerHTML = data.stargazers_count;
-        document.getElementById('github-d1ee40410732ec983ab567e658aa0563-forks').innerHTML = data.forks;
+        document.getElementById('github-29db48458354962826ce9275e315d773-full_name').innerHTML = data.full_name;
+        document.getElementById('github-29db48458354962826ce9275e315d773-description').innerHTML = data.description;
+        document.getElementById('github-29db48458354962826ce9275e315d773-stargazers').innerHTML = data.stargazers_count;
+        document.getElementById('github-29db48458354962826ce9275e315d773-forks').innerHTML = data.forks;
       })
       .catch(error => console.error(error))
   </script>
 </a>
 <p>Additionally, I enhanced security by installing fail2ban on the VMs with SSH access and configuring Proxmox permissions to restrict unauthorized access.</p>
-<a id="github-c357610922aab9a9da8a80f66899e7ab" target="_blank" href="https://github.com/fail2ban/fail2ban" class="cursor-pointer">
+<a id="github-126b8923b7916decf6481bba6d0f5f30" target="_blank" href="https://github.com/fail2ban/fail2ban" class="cursor-pointer">
   <div
     class="w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl">
 
@@ -914,13 +913,13 @@
 
       </span>
       <div
-        id="github-c357610922aab9a9da8a80f66899e7ab-full_name"
+        id="github-126b8923b7916decf6481bba6d0f5f30-full_name"
         class="m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral">
         fail2ban/fail2ban
       </div>
     </div>
 
-    <p id="github-c357610922aab9a9da8a80f66899e7ab-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
+    <p id="github-126b8923b7916decf6481bba6d0f5f30-description" class="m-0 mt-2 text-md text-neutral-800 dark:text-neutral">
       Daemon to ban hosts that cause multiple authentication errors
     </p>
 
@@ -941,7 +940,7 @@
 
 
       </span>
-      <div id="github-c357610922aab9a9da8a80f66899e7ab-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-126b8923b7916decf6481bba6d0f5f30-stargazers" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         11104
       </div>
 
@@ -954,7 +953,7 @@
 
 
       </span>
-      <div id="github-c357610922aab9a9da8a80f66899e7ab-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
+      <div id="github-126b8923b7916decf6481bba6d0f5f30-forks" class="m-0 mr-5 text-md text-neutral-800 dark:text-neutral">
         1200
       </div>
 
@@ -969,10 +968,10 @@
     })
       .then(response => response.json())
       .then(data => {
-        document.getElementById('github-c357610922aab9a9da8a80f66899e7ab-full_name').innerHTML = data.full_name;
-        document.getElementById('github-c357610922aab9a9da8a80f66899e7ab-description').innerHTML = data.description;
-        document.getElementById('github-c357610922aab9a9da8a80f66899e7ab-stargazers').innerHTML = data.stargazers_count;
-        document.getElementById('github-c357610922aab9a9da8a80f66899e7ab-forks').innerHTML = data.forks;
+        document.getElementById('github-126b8923b7916decf6481bba6d0f5f30-full_name').innerHTML = data.full_name;
+        document.getElementById('github-126b8923b7916decf6481bba6d0f5f30-description').innerHTML = data.description;
+        document.getElementById('github-126b8923b7916decf6481bba6d0f5f30-stargazers').innerHTML = data.stargazers_count;
+        document.getElementById('github-126b8923b7916decf6481bba6d0f5f30-forks').innerHTML = data.forks;
       })
       .catch(error => console.error(error))
   </script>
@@ -1031,7 +1030,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/server/&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/server/index_/&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title="Share on LinkedIn"
       aria-label="Share on LinkedIn"
       >
@@ -1050,7 +1049,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/server/&amp;text=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/server/index_/&amp;text=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title="Tweet on Twitter"
       aria-label="Tweet on Twitter"
       >
@@ -1068,7 +1067,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=http://localhost:1313/posts/server/&amp;resubmit=true&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://reddit.com/submit/?url=http://localhost:1313/posts/server/index_/&amp;resubmit=true&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title="Submit to Reddit"
       aria-label="Submit to Reddit"
       >
@@ -1087,7 +1086,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/server/&amp;description=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/server/index_/&amp;description=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title="Pin on Pinterest"
       aria-label="Pin on Pinterest"
       >
@@ -1106,7 +1105,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/server/&amp;quote=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/server/index_/&amp;quote=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title="Share on Facebook"
       aria-label="Share on Facebook"
       >
@@ -1125,7 +1124,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=http://localhost:1313/posts/server/&amp;subject=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="mailto:?body=http://localhost:1313/posts/server/index_/&amp;subject=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title="Send via email"
       aria-label="Send via email"
       >
@@ -1144,7 +1143,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/server/&amp;resubmit=true&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/server/index_/&amp;resubmit=true&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title=""
       aria-label=""
       >
@@ -1163,7 +1162,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://t.me/share/url?url=http://localhost:1313/posts/server/&amp;resubmit=true&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
+      href="https://t.me/share/url?url=http://localhost:1313/posts/server/index_/&amp;resubmit=true&amp;title=Setting%20up%20my%20Proxmox%20Server%20on%20an%20HP%20ProLiant%20DL380p"
       title=""
       aria-label=""
       >
@@ -1192,8 +1191,8 @@
           
         
       <script>
-        var oid = "views_posts\\server\\index.md"
-        var oid_likes = "likes_posts\\server\\index.md"
+        var oid = "views_posts\\server\\index_.md"
+        var oid_likes = "likes_posts\\server\\index_.md"
       </script>
       
       
