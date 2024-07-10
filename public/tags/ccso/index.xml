@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CCSO on Maguire Younes</title>
+    <link>http://localhost:1313/tags/ccso/</link>
+    <description>Recent content in CCSO on Maguire Younes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Maguire Younes</copyright>
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ccso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Journey at MACCDC</title>
+      <link>http://localhost:1313/posts/ccdc/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ccdc/</guid>
+      <description>This post will cover our recent participation in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where the PSU Competative Cyber Security Club&amp;rsquo;s (CCSO) elite defensive cybersecurity team made history by securing 2nd place out of 10 teams.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ccdc/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

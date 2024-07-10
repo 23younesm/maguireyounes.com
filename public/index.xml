@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Maguire Younes</copyright>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Journey at MACCDC</title>
+      <link>http://localhost:1313/posts/ccdc/</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ccdc/</guid>
+      <description>This post will cover our recent participation in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where the PSU Competative Cyber Security Club&amp;rsquo;s (CCSO) elite defensive cybersecurity team made history by securing 2nd place out of 10 teams.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ccdc/featured.jpeg" />
+    </item>
+    
     <item>
       <title>Automating Group Chat Fun with a Signal API Python Script</title>
       <link>http://localhost:1313/posts/signal-api/</link>
