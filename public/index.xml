@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Maguire Younes</copyright>
-    <lastBuildDate>Wed, 10 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Our Journey at MACCDC</title>
-      <link>http://localhost:1313/posts/ccdc/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <title>Maguire Younes&#39;s Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ccdc/</guid>
-      <description>This post will cover our recent participation in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where the PSU Competative Cyber Security Club&amp;rsquo;s (CCSO) elite defensive cybersecurity team made history by securing 2nd place out of 10 teams.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ccdc/featured.jpeg" />
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Download PDF Version Here!</description>
+      
     </item>
     
     <item>
@@ -49,13 +49,13 @@
     </item>
     
     <item>
-      <title>Maguire Younes&#39;s Resume</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Our Journey at MACCDC</title>
+      <link>http://localhost:1313/posts/ccdc/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/resume/</guid>
-      <description>Education # The Pennsylvania State University</description>
-      
+      <guid>http://localhost:1313/posts/ccdc/</guid>
+      <description>This post will cover our recent participation in the Mid-Atlantic Collegiate Cyber Defense Competition (MACCDC), where the PSU Competative Cyber Security Club&amp;rsquo;s (CCSO) elite defensive cybersecurity team made history by securing 2nd place out of 10 teams.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ccdc/featured.jpeg" />
     </item>
     
   </channel>
