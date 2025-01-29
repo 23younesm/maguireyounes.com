@@ -5,14 +5,14 @@ date: 2024-08-22
 ---
 
 {{< alert "download" >}}
-[Download PDF Version Here!](Younes-Resume-8.21.pdf)
+[Download PDF Version Here!](Younes-Resume-1.25.pdf)
 {{< /alert >}}
 
 ## Education
 
 **The Pennsylvania State University**  
 University Park, PA  
-- B.S. Cybersecurity Analytics and Operations, Class of 2027  
+- B.S., Cybersecurity Analytics and Operations, Class of 2027  
   GPA: 3.98/4.00  
 
 ## Campus Experience
@@ -23,7 +23,7 @@ September '23 - Present
 - Selected from a competitive applicant pool for advanced technical skills.  
 - Member of MACCDC and CPTC teams; achieved historic results for PSU CCSO:  
   - **MACCDC**: 2nd Place Regional finish (first in CCSO history).  
-  - **CPTC**: 2nd Place Regional finish; advanced to Global Competition.  
+  - **CPTC**: 3rd Place Global finish (first in CCSO history).  
 
 **University Park Undergraduate Association, Chair of Campus Operations**  
 September '23 - Present  
