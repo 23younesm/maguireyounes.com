@@ -36,14 +36,11 @@ You can find it on the [Chrome Web Store](https://chromewebstore.google.com/deta
 
 "Help Me Nittany Lion" is open-source, meaning anyone can contribute or modify it to add their own school mascot. Check out the code on [GitHub](https://github.com/23younesm/Help-Me-Nittany-Lion) and feel free to fork it!
 
-```html
 {{< github repo="23younesm/Help-Me-Nittany-Lion" >}}
-```
+
 Thanks to Aiden Johnson from UT for the source code and inspiration for this project!
 
-```html
 {{< github repo="arjohnsonn/Help-Me-Bevo" >}}
-```
 
 ## Conclusion
 
