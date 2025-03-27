@@ -1,7 +1,7 @@
 ---
 title: "Penn State CCSO: 3rd in the World at CPTC!"
 description: "Recapping our incredible journey to a global 3rd place finish at the Collegiate Penetration Testing Competition."
-date: 2025-01-28
+date: 2025-01-20
 tags: ["CyberSecurity", "PenetrationTesting", "CPTC", "PennState", "CCSO"]
 imageNameKey: cptc
 ---

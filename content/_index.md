@@ -11,9 +11,6 @@
   ### Competitive Cybersecurity Organization
   The Competitive Cybersecurity Club at Penn State University is a tightly-knit student organization focused on advancing cybersecurity expertise through competitions. With enthusiastic and skilled members, the club covers topics like ethical hacking and digital forensics. It fosters a collaborative learning environment through workshops and training sessions, while also facilitating connections with industry professionals. The club's consistent success in competitions reflects its dedication, making it a vital hub for cybersecurity enthusiasts at PSU.
 
-  ### Learing Assistant
-
-  As a Learning Assistant, I play a crucial role in facilitating the Security Risk Analysis 111 course at Penn State. My responsibilities include ensuring fair and timely assessment, I am responsible for grading assignments, exams, and projects. I provide constructive feedback to help students improve their skills and grasp key concepts in security risk analysis. With a strong background in security risk analysis, I provide technical assistance to students, helping them navigate tools, software, and methodologies relevant to the course.
 
   
 

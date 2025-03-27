@@ -1,7 +1,7 @@
 ---
 title: "Help Me Nittany Lion: Bringing the Lion Spirit to Canvas"
 description: "How I built a Chrome extension that displays the Nittany Lion's infamous animation when submitting Canvas assignments."
-date: 2025-01-28
+date: 2024-12-18
 tags: ["Chrome Extension", "Canvas", "Productivity", "Penn State"]
 imageNameKey: help_me_nittany_lion
 ---
