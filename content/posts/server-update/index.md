@@ -49,7 +49,7 @@ Security is critical, so I deployed **Wazuh SIEM** across my network with agents
 
 ### Visualizing Server Performance with Grafana and InfluxDB
 
-To monitor system health, I built dashboards using **Grafana** backed by **InfluxDB**, tracking CPU, memory, disk, and network metrics across my servers and VMs in real time. I coded a custom scraper to snag the power API data from my ILO and then import it into my Granfana instance so I can monitor it as well!
+To monitor system health, I built dashboards using **Grafana** backed by **InfluxDB**, tracking CPU, memory, disk, and network metrics across my servers and VMs in real time. I coded a custom scraper to snag the power API data from my ILO and then import it into my Grafana instance so I can monitor it as well!
 
 ![Grafana Performance Dashboard](grafana-dashboard.png)
 
