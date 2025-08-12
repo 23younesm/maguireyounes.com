@@ -19,6 +19,7 @@ I deployed [Uptime Kuma](https://github.com/louislam/uptime-kuma), a self-hosted
 ![Uptime Kuma Dashboard](uptime-kuma-dashboard.png)
 ![Uptime Kuma Dashboard Two](uptime-kuma-dashboard2.png)
 ![Uptime Kuma Signal Alert](signal.png)
+
 ---
 
 ### File Upload Server with Pingvin Share
