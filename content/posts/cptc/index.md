@@ -1,38 +1,31 @@
 ---
-title: "Penn State CCSO: 3rd in the World at CPTC!"
-description: "Recapping our incredible journey to a global 3rd place finish at the Collegiate Penetration Testing Competition."
+title: "Penn State CCSO: 3rd in the world at CPTC!"
+description: "CCSO placed 3rd in the world at the Global Collegiate Penetration Testing Competition, the highest finish in Penn State iSchool history."
 date: 2025-01-20
 tags: ["CyberSecurity", "PenetrationTesting", "CPTC", "PennState", "CCSO"]
 imageNameKey: cptc
 ---
 
-
-## A Historic Achievement
-
-I'm incredibly proud to share that I was part of the Penn State Competitive Cyber Security Organization (CCSO) team that placed **3rd in the world** at the **Global Collegiate Penetration Testing Competition (CPTC)!** 🌍
-
-This is the **highest placement in Penn State College of Information Sciences and Technology history**, and it's an honor to be part of such an incredible achievement.
+I was part of the Penn State Competitive Cyber Security Organization (CCSO) team that placed 3rd in the world at the Global Collegiate Penetration Testing Competition (CPTC). It's the highest placement in the history of Penn State's College of Information Sciences and Technology.
 
 ![Trophy](trophy.JPG)
 
-## The Competition
+## The competition
 
-Out of **62 teams globally (545 participants)**, we not only made it to the **Global Finals** but also earned the **Best Presentation Award**—a testament to our ability to communicate complex security findings effectively.
+Out of 62 teams globally and 545 participants, we made it to the Global Finals and also won the Best Presentation Award for how we communicated our findings. CPTC is a real-world penetration testing simulation: teams assess a company's security posture and report on it like they would for an actual client, and it pushes technical skill, creativity, and teamwork all at once.
 
-CPTC is not your average competition. It’s a real-world penetration testing simulation where teams assess and report on a company’s security posture. The challenge pushes technical skills, creativity, and teamwork to the limit.
+## My role
 
-## My Role
+I led:
+- Web application penetration testing
+- Database security
+- Linux exploitation
 
-I had the privilege of serving as the main lead for:
-- **Web Application Penetration Testing**
-- **Database Security**
-- **Linux Exploitation**
+Between hunting vulnerabilities, building exploits, and writing remediation guidance, the whole competition was intense in a good way. It reinforced how much team collaboration and clear reporting matter in this field, on top of the technical work.
 
-From hunting vulnerabilities to crafting exploits and developing remediation strategies, every moment of the competition was intense and rewarding. The experience reinforced the importance of **team collaboration, precise documentation, and effective reporting**—all essential skills in professional cybersecurity.
+## Teamwork makes the dream work
 
-## Teamwork Makes the Dream Work
-
-This achievement wouldn’t have been possible without the dedication and expertise of my amazing teammates:
+None of this happens without my teammates:
 
 - **Jonathan Skeete**
 - **Liam Geyer**
@@ -42,12 +35,10 @@ This achievement wouldn’t have been possible without the dedication and expert
 
 ![Powerpoint](powerpoint.JPG)
 
-And, of course, a huge thank you to our advisor **Nicklaus Giacobe**, whose guidance was instrumental throughout the competition.
+Huge thanks to our advisor, Nicklaus Giacobe, whose guidance carried us through the whole competition.
 
-## Looking Ahead
+## Looking ahead
 
-This experience has only fueled my passion for cybersecurity and penetration testing. As a team, we’ve set a new standard for Penn State, and I’m excited to see what the future holds!
+This result set a new bar for Penn State at CPTC, and I'm excited to see how far the program goes from here. Thanks to everyone who backed us on this one.
 
-Thank you to everyone who supported us on this journey. **Here’s to pushing boundaries, learning, and continuing to represent Penn State on the global stage!**
-
-**WE ARE!** 🦁
+WE ARE!

@@ -1,52 +1,47 @@
 ---
-title: "Help Me Nittany Lion: Bringing the Lion Spirit to Canvas"
+title: "Help Me Nittany Lion: Bringing the Lion spirit to Canvas"
 description: "How I built a Chrome extension that displays the Nittany Lion's infamous animation when submitting Canvas assignments."
 date: 2024-12-18
 tags: ["Chrome Extension", "Canvas", "Productivity", "Penn State"]
 imageNameKey: help_me_nittany_lion
 ---
 
-## The Inspiration
+## The inspiration
 
-It all started when I stumbled upon a Chrome extension called "Help Me Bevo," which played the University of Texas mascot animation when submitting assignments. As a Penn State student, I thought, *why not bring this same energy to our own Canvas experience?* Thus, "Help Me Nittany Lion" was born!
+I came across a Chrome extension called "Help Me Bevo" that plays the University of Texas mascot animation when you submit an assignment. As a Penn State student I couldn't let that stand, so "Help Me Nittany Lion" was born.
 
-## Learning the Ropes
+## Learning the ropes
 
-At first, I had no idea how Chrome extensions worked. I cloned the "Help Me Bevo" repository and started dissecting the code. It was written in JavaScript and used event listeners to detect when an assignment was submitted. After a few hours of trial and error (and a lot of Googling), I got the custom PSU animation I made to trigger on Canvas submissions!
+I had zero experience with Chrome extensions going in. I cloned the "Help Me Bevo" repo and started picking apart the code, which was plain JavaScript using event listeners to catch assignment submissions. After a few hours of trial, error, and Googling, I had a custom PSU animation firing on Canvas submissions.
 
-## Making It My Own
+## Making it my own
 
-With the basics working, I started tweaking and adding new features:
+Once the basics worked, I started adding my own touches:
 
-- **Color:** I modified the extension to the color scheme of PSU so it fit more!
-- **Quotes:** Every time the Extension settings page is opened, at the bottom, a custom PSU quote is listed such as "WE ARE!"
-- **Animation:** Since there is no offical PSU annimation, I used some images and quotes to make it feel more like home.
+- **Color:** switched the extension's palette to Penn State's colors so it actually felt like it belonged.
+- **Quotes:** the extension's settings page now shows a random PSU quote at the bottom, like "WE ARE!"
+- **Animation:** there's no official PSU animation to rip, so I pieced one together from images and quotes that feel like home.
 
 ![Settings Page](settings.png)
 
-## Publishing the Extension
+## Publishing the extension
 
-Once I had a working version, it was time to navigate the maze of publishing on the Chrome Web Store. Google's verification process was more complicated than I expected, requiring a detailed privacy policy and permissions review. After a few revisions and approvals, "Help Me Nittany Lion" officially went live!
+Getting it onto the Chrome Web Store took longer than I expected. Google's review process wanted a real privacy policy and a full permissions breakdown, and it took a few rounds of revisions before it got approved. Then "Help Me Nittany Lion" went live.
 
-You can find it on the [Chrome Web Store](https://chromewebstore.google.com/detail/help-me-nittany-lion/ikkcnfblcfkcodnphdbhlepljidlohfh), and install it with just a click.
+You can grab it on the [Chrome Web Store](https://chromewebstore.google.com/detail/help-me-nittany-lion/ikkcnfblcfkcodnphdbhlepljidlohfh) and install it in a click.
 
 ![Play](play.png)
 
-## Open Source 
+## Open source
 
-"Help Me Nittany Lion" is open-source, meaning anyone can contribute or modify it to add their own school mascot. Check out the code on [GitHub](https://github.com/23younesm/Help-Me-Nittany-Lion) and feel free to fork it!
+The whole thing is open source, so anyone can fork it and swap in their own school's mascot. Code's on [GitHub](https://github.com/23younesm/Help-Me-Nittany-Lion).
 
 {{< github repo="23younesm/Help-Me-Nittany-Lion" >}}
 
-Thanks to Aiden Johnson from UT for the source code and inspiration for this project!
+Thanks to Aiden Johnson from UT for the original source and the idea.
 
 {{< github repo="arjohnsonn/Help-Me-Bevo" >}}
 
-## Conclusion
+What started as a way to kill an afternoon turned into a real crash course in Chrome extension development. If you're at Penn State, give it a shot.
 
-What started as a simple idea turned into a fun, hands-on learning experience in Chrome extension development. If you’re a Penn State student, give it a try and let the Nittany Lion bring some school spirit to your assignments!
-
-Check it out on the [Chrome Web Store](https://chromewebstore.google.com/detail/help-me-nittany-lion/ikkcnfblcfkcodnphdbhlepljidlohfh) and let me know what you think!
-
-Happy submitting, and **WE ARE!** 🦁
-
+Happy submitting, and WE ARE!

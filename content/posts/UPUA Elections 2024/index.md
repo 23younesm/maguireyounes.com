@@ -9,78 +9,64 @@ tags: ["UPUA"]
 **Update!** Maguire Younes was elected to the At-Large Position! Thanks for your support!
 {{< /alert >}}
 
-## CLICK THE BUTTON TO VOTE!
+## Click the button to vote!
 [![Vote Now](https://static.vecteezy.com/system/resources/thumbnails/025/210/827/small_2x/vote-button-icon-glossy-3d-realistic-vote-now-button-voting-badge-badge-label-voting-yes-push-button-isolated-png.png)](https://orgcentral.psu.edu/submitter/election/start/630489)
 
 
-## Candidate Spotlight: Maguire Younes
+## Candidate spotlight: Maguire Younes
 
-🏕️ **About Me:**
-- Hailing from the beautiful Lancaster, PA.
-- Weekends are spent camping, hiking, fishing, and delving into computers.
+I'm from Lancaster, PA, and most weekends you'll find me camping, hiking, fishing, or messing around with computers. My favorite thing about Penn State is hands down the energy at hockey games. I'm running for At-Large Representative because I want to put that same energy into making the Penn State experience better for everyone here.
 
-🚀 **Passion for Penn State:**
-- Favorite thing at PSU? The electric energy of our hockey games!
-
-🌲 **Outdoor Enthusiast & Tech Geek:**
-- Finds joy in exploring the outdoors and the world of coding and tech advancements.
-
-🔍 **Why I’m Running:**
-- Putting myself in the race for YOU! Let’s make your Penn State experience even more incredible.
-
-📅 **Save the Date:**
-- March 27th - Your support and vote will shape the future of our university. Let’s make Penn State the best it can be, together! 🌈🎓
+Voting closes March 27th. Your vote decides who represents you, so use it.
 
 
 ## Understanding UPUA at PSU
 
-The University Park Undergraduate Association (UPUA) at Penn State University serves as the representative student government body for undergraduate students. It plays a crucial role in advocating for student interests, addressing concerns, and implementing initiatives to enhance the overall student experience.
+The University Park Undergraduate Association (UPUA) is the student government body for undergrads at Penn State. It advocates for student interests, addresses concerns, and pushes initiatives that improve day-to-day student life.
 
-### How UPUA Helps Students
+### How UPUA helps students
 
-UPUA supports students in various ways, including:
+- Advocates for student needs and concerns to university administration.
+- Runs programs and initiatives to improve campus facilities, safety, and accessibility.
+- Builds community and inclusivity through engagement initiatives.
 
-- Advocating for student needs and concerns to university administration.
-- Implementing programs and initiatives to improve campus facilities, safety, and accessibility.
-- Fostering a sense of community and inclusivity through engagement initiatives.
+## At-Large Representative role
 
-## At-Large Representative Role
-
-An At-Large Representative within UPUA is tasked with representing the interests of the entire student body rather than a specific college or constituency. Their responsibilities include:
+An At-Large Representative speaks for the entire student body rather than one college or constituency. That means:
 
 - Advocating for student concerns and initiatives.
-- Collaborating with other representatives to address campus-wide issues.
-- Engaging with students to gather feedback and suggestions.
+- Working with other representatives on campus-wide issues.
+- Talking to students directly to gather feedback and suggestions.
 
-## Campaign Platforms
+## Campaign platforms
 
-Younes' campaign focuses on three key pillars:
+My campaign focuses on three areas.
 
-### Campus Infrastructure Improvement
+### Campus infrastructure improvement
 
 - Installing tables with chargers in the HUB.
-- Implementing bike rack covers.
-- Enhancing CATA bus services.
-- Improving snowstorm procedures.
-- Introducing safety initiatives like the Safety Walk App and Green Dot Programs.
+- Adding bike rack covers.
+- Improving CATA bus service.
+- Better snowstorm procedures.
+- Expanding safety initiatives like the Safety Walk App and Green Dot programs.
 
-### Sustainability and Environmental Initiatives
+### Sustainability and environmental initiatives
 
-- Promoting recycling programs, including the recycling of red solo cups.
-- Enhancing green spaces like the HUB Garden.
-- Implementing eco-friendly practices and initiatives.
+- Promoting recycling programs, including recycling for red solo cups.
+- Improving green spaces like the HUB Garden.
+- Pushing eco-friendly practices campus-wide.
 
-### Community Engagement and Well-being Initiatives
+### Community engagement and well-being initiatives
 
-- Providing food resources for students.
-- Installing Big 10 Pendants in the HUB.
-- Ensuring access to menstrual products in all bathrooms.
-- Advocating for Thon days off.
+- Getting more food resources to students.
+- Installing Big Ten pendants in the HUB.
+- Making sure menstrual products are in every bathroom.
+- Advocating for THON days off.
 
-## CLICK THE BUTTON TO VOTE!
+## Click the button to vote!
 [![Vote Now](https://static.vecteezy.com/system/resources/thumbnails/025/210/827/small_2x/vote-button-icon-glossy-3d-realistic-vote-now-button-voting-badge-badge-label-voting-yes-push-button-isolated-png.png)](https://orgcentral.psu.edu/submitter/election/start/630489)
 
-## Follow the Insta!
+## Follow the campaign
 
 @younes4upua
 #younes4upua

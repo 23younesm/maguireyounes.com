@@ -1,68 +1,64 @@
 ---
-title: "Setting up my Proxmox Server on an HP ProLiant DL380p"
+title: "Setting up my Proxmox server on an HP ProLiant DL380p"
 description: "A step-by-step guide to repurposing an HP ProLiant DL380p server with Proxmox and various tools"
 date: 2024-07-03
 tags: ["Server", "Proxmox", "Virtualization", "Networking"]
 imageNameKey: proxmox
 ---
 
-This post outlines my experience with setting up an HP ProLiant DL380p server to run Proxmox, along with several other tools to enhance its functionality. The aim was to repurpose an older server into a versatile virtualization platform for various projects, including remote access, monitoring, and container management.
+Here's how I turned an old HP ProLiant DL380p into a Proxmox virtualization box for remote access, monitoring, and container hosting.
 
 ## Background
 
-I recently purchased an HP ProLiant DL380p server off Facebook Marketplace. The server's specifications include:
+I picked up an HP ProLiant DL380p off Facebook Marketplace. Specs:
 
 ![Server](server.jpg)
 
-- 2 Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz
+- 2x Intel Xeon E5-2640 0 @ 2.50GHz
 - 64 GB DDR3 RAM
-- HP Ethernet 1Gb 4-port 331FLR Adapter
-- 2.2 TB RAID 1 Storage
+- HP Ethernet 1Gb 4-port 331FLR adapter
+- 2.2 TB RAID 1 storage
 
-It was previously running Windows Server 2012 and was used for running VMs with Hyper-V. I decided to switch to Proxmox to leverage its Linux base and robust virtualization capabilities.
+It came off Windows Server 2012 running Hyper-V VMs. I switched to Proxmox for the Linux base and the stronger virtualization features.
 
-## Initial Setup Challenges
+## Initial setup challenges
 
-### Firmware Update
+### Firmware update
 
-My first challenge was to boot the server via USB with the [Proxmox installer](https://www.proxmox.com/en/proxmox-virtual-environment/get-started), but the server's firmware was outdated. HP provided an old USB ISO for firmware updates, but it was so outdated that it didn't work. I then turned to the Integrated Lights-Out (ILO) interface for firmware updates.
+Booting the Proxmox installer off USB didn't work at first because the server's firmware was too old. HP's own USB ISO for firmware updates was itself too outdated to run, so I ended up going through the Integrated Lights-Out (ILO) interface instead.
 
 ### Learning ILO
 
-Navigating the ILO interface was a struggle initially. I had to do extensive research to understand its functionalities. Eventually, I managed to update the firmware through the ILO interface, bringing the server up to date. Surprisingly, HP still supports firmware updates for this older server model.
+ILO took some real research to get comfortable with, but I got the firmware updated through it eventually. Surprisingly, HP still supports firmware updates for a server this old.
 
 ### Installing Proxmox
 
-With the server firmware updated, I used the ILO's virtual DVD feature to mount the Proxmox installer ISO. I successfully installed Proxmox and formatted the disks to my preferences.
+With firmware sorted, I used ILO's virtual DVD feature to mount the Proxmox installer, installed it, and formatted the disks the way I wanted.
 
 ## Configuring Proxmox and VMs
 
-### Initial VM Setup
+### Initial VM setup
 
-The first thing I did was provision and install a basic Red Hat Linux VM. On this VM, I installed a Cloudflare tunnel, allowing me to securely access my private network from Penn State without the need for port forwarding.
+First VM up was a basic Red Hat Linux box running a Cloudflare tunnel, which lets me reach my private network securely from Penn State without touching port forwarding.
 
 ![Network Diagram](network_diagram1.png)
 
-### Monitoring and Security
+### Monitoring and security
 
-I installed Uptime Kuma, an open-source monitoring service, on the server. Uptime Kuma provides a simple dashboard to monitor various services, including my website, server, tunnel, and SSH access.
+Uptime Kuma runs on the server now, giving me a dashboard for my website, the server itself, the tunnel, and SSH access.
 
 {{< github repo="louislam/uptime-kuma" >}}
 
-Additionally, I enhanced security by installing fail2ban on the VMs with SSH access and configuring Proxmox permissions to restrict unauthorized access.
+I also added fail2ban on every VM with SSH exposed and locked down Proxmox permissions to cut off unauthorized access.
 
 {{< github repo="fail2ban/fail2ban" >}}
 
-### Container Management
+### Container management
 
-To manage Docker containers efficiently, I installed [Portainer](https://www.portainer.io/). This tool allows me to easily spin up and manage containers, such as my [Signal API bot](https://maguireyounes.com/posts/signal-api).
+[Portainer](https://www.portainer.io/) handles Docker container management, including spinning up things like my [Signal API bot](https://maguireyounes.com/posts/signal-api).
 
-## Future Plans
+## Future plans
 
-With the Proxmox server set up to my liking, I am ready to spin up numerous VMs for practicing red teaming and blue teaming cybersecurity skills. The first test will be during an upcoming Red vs Blue team exercise. I am also looking to learn [Anisble](https://www.ansible.com/) for VM deployments and installing [Wazuh SIEM](https://wazuh.com/) to help monitor for threats. 
+With Proxmox where I want it, next up is using it to practice red and blue team skills, starting with an upcoming Red vs Blue exercise. I also want to learn [Ansible](https://www.ansible.com/) for VM deployments and get [Wazuh SIEM](https://wazuh.com/) running for threat monitoring.
 
-## Conclusion
-
-Setting up this server has been a rewarding project, turning an older piece of hardware into a powerful and flexible virtualization platform. The combination of Proxmox, Cloudflare tunnel, Uptime Kuma, and Portainer has provided me with a robust environment for learning and experimentation.
-
-Feel free to follow along with these steps and customize your setup to suit your needs. Happy virtualizing!
+Turning an old rack server into something this useful has been one of the more satisfying projects I've done. If you're doing something similar, feel free to steal any part of this setup.

@@ -1,4 +1,4 @@
-/* Penn State scheme — Nittany Navy (#001E44) & Beaver Blue (#003087) */
+/* Penn State scheme — main color is Nittany Navy (#001E44) */
 :root {
   --color-neutral: 255, 255, 255;
   /* Gray */
@@ -12,17 +12,17 @@
   --color-neutral-700: 51, 65, 85;
   --color-neutral-800: 30, 41, 59;
   --color-neutral-900: 15, 23, 42;
-  /* Nittany Navy / Beaver Blue */
-  --color-primary-50: 235, 240, 247;
-  --color-primary-100: 209, 221, 236;
-  --color-primary-200: 163, 187, 216;
-  --color-primary-300: 112, 148, 190;
-  --color-primary-400: 63, 108, 160;
-  --color-primary-500: 0, 48, 135; /* Beaver Blue #003087 */
-  --color-primary-600: 0, 40, 112;
-  --color-primary-700: 0, 33, 90;
-  --color-primary-800: 0, 30, 68; /* Nittany Navy #001E44 */
-  --color-primary-900: 0, 20, 46;
+  /* Nittany Navy */
+  --color-primary-50: 242, 244, 246;
+  --color-primary-100: 222, 226, 231;
+  --color-primary-200: 179, 188, 199;
+  --color-primary-300: 133, 147, 165;
+  --color-primary-400: 77, 98, 124;
+  --color-primary-500: 0, 30, 68; /* Nittany Navy #001E44 */
+  --color-primary-600: 0, 26, 58;
+  --color-primary-700: 0, 21, 48;
+  --color-primary-800: 0, 17, 37;
+  --color-primary-900: 0, 11, 26;
   /* Pennsylvania Sky */
   --color-secondary-50: 255, 255, 255;
   --color-secondary-100: 247, 250, 252;

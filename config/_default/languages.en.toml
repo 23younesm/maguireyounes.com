@@ -13,7 +13,7 @@ title = "Maguire Younes"
    description = "My awesome website"
    copyright = "© 2024–2026 Maguire Younes"
 
-[author]
+[params.author]
    name = "Maguire Younes"
    image = "headshot.png"
    headline = "Cybersecurity Analytics and Operations Student at Penn State University"

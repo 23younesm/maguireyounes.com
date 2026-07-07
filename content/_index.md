@@ -1,16 +1,13 @@
-  ## About Me
+## About Me
 
- I'm a Cybersecurity Analytics and Operations Major at Penn State University Park, set to graduate in 2027. My learning style prioritizes hands-on experimentation, enriching my grasp of technology. As the "tech support kid" since childhood, my affinity for cybersecurity was sparked. Alongside my studies and campus involvement, I'm deeply passionate about meteorology, student government, and outdoor activities, embodying a multifaceted life approach and seizing every opportunity.
+I'm a Cybersecurity Analytics and Operations major at Penn State, set to graduate in 2027. I learn best by taking things apart and rebuilding them, and that's basically how I ended up in this field: I was the "tech support kid" in my family growing up, and that turned into a real interest in how systems break and how you secure them. Outside of classes and campus involvement, I follow meteorology, I'm active in student government, and I try to spend as much time outdoors as I can.
 
-  ## What I do
+## What I do
 
-  ### University Park Undergraduate Association
+### University Park Undergraduate Association
 
-  As an At-Large Representative for the UPUA at PSU, I'm privileged to represent one of 20 student voices advocating for over 42,000 undergraduates. My responsibilities include engaging with students to grasp their concerns, serving as a vocal advocate in diverse forums, fostering communication between students and the administration, and collaborating on initiatives to enhance student life. I work alongside various student groups and university departments, conducting research, contributing to policy development, and organizing events promoting community engagement and student well-being.
+I'm an At-Large Representative for UPUA, one of 20 student voices representing over 42,000 undergraduates at Penn State. That means talking to students about what's actually bothering them, raising it with administration, and working with other student groups and university departments on policy and events, things like community engagement initiatives and student well-being programs.
 
-  ### Competitive Cybersecurity Organization
-  The Competitive Cybersecurity Club at Penn State University is a tightly-knit student organization focused on advancing cybersecurity expertise through competitions. With enthusiastic and skilled members, the club covers topics like ethical hacking and digital forensics. It fosters a collaborative learning environment through workshops and training sessions, while also facilitating connections with industry professionals. The club's consistent success in competitions reflects its dedication, making it a vital hub for cybersecurity enthusiasts at PSU.
+### Competitive Cybersecurity Organization
 
-
-  
-
+CCSO is Penn State's competitive cybersecurity club: small, close-knit, and focused on ethical hacking, digital forensics, and getting people ready for competitions like MACCDC and CPTC through workshops and hands-on training. We've had a strong run of competition results over the past couple of years, and the club has become one of the main places on campus where people interested in security actually work on it together instead of just talking about it.
