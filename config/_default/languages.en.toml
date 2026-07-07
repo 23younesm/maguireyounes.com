@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+locale = "en-US"
+label = "English"
 weight = 1
 title = "Maguire Younes"
 
@@ -8,10 +8,10 @@ title = "Maguire Younes"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "logo2.png"
+  # logo = "logo2.png"
   # secondaryLogo = "img/secondary-logo.png"
    description = "My awesome website"
-   copyright = "© 2024 Maguire Younes"
+   copyright = "© 2024–2026 Maguire Younes"
 
 [author]
    name = "Maguire Younes"

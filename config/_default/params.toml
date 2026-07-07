@@ -5,12 +5,12 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "test"
+colorScheme = "psu"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 
 
 # mainSections = ["section1", "section2"]
@@ -19,15 +19,15 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-  defaultBackgroundImage = "Background.png" # used as default for background images 
+  defaultBackgroundImage = "Background.png" # used as default for background images
   defaultFeaturedImage = "Posts.png" # used as default for featured images in all articles
 
-# highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true

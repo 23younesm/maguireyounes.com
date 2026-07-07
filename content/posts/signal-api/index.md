@@ -4,6 +4,7 @@ description: "A step-by-step guide to creating a Python script that interacts wi
 date: 2024-07-08
 tags: ["Python", "Signal", "API", "Automation"]
 imageNameKey: signal
+draft: true
 ---
 
 This post covers my experience creating a Python script to interact with my friends' Signal group chat. The script listens for commands related to our inside joke about the [Chinese Communist Party Social Credit System](https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4) and responds accordingly. The Signal API GitHub repo was instrumental in setting this up.
